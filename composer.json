@@ -1,0 +1,25 @@
+{
+    "name": "pxlcodes/formbuilder",
+    "description": "This is the package to build menu as you like",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Niraj Dhakal",
+        "email": "nirajdhakal7@gmail.com"
+    }],
+    "minimum-stability": "beta",
+    "require": {},
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Pxlcodes\\Formbuilder\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Pxlcodes\\Formbuilder\\Test\\": "tests/"
+        }
+    }
+
+}
