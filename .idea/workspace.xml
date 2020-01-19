@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58d2293f-1a86-45ff-b3b7-effab5d233f1" name="Default Changelist" comment="" />
+    <list default="true" id="58d2293f-1a86-45ff-b3b7-effab5d233f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/packages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/composerJson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/components/form/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/components/form/tamplete.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FormBuilderServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/FormBuilderServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/formbuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/formbuilder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/welcome.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,8 +37,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\packages\pkg\formbuilder\src" />
+      <recent name="C:\xampp\htdocs\packages\pkg\formbuilder\Http\Controllers" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -50,11 +69,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579315703765</updated>
-      <workItem from="1579315710803" duration="1050000" />
+      <workItem from="1579315710803" duration="24550000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1579323776559">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.738/0.-768.1366.738@0.0.1366.738" timestamp="1579323776559" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1579354280810">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/0.-768.1366.738@0.0.1366.738" timestamp="1579354280810" />
   </component>
 </project>
